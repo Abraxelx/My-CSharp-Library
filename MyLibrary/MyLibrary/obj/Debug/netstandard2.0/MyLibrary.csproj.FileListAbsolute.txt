@@ -1,0 +1,9 @@
+C:\Users\Abraxel\source\repos\MyLibrary\MyLibrary\bin\Debug\netstandard2.0\MyLibrary.deps.json
+C:\Users\Abraxel\source\repos\MyLibrary\MyLibrary\bin\Debug\netstandard2.0\MyLibrary.dll
+C:\Users\Abraxel\source\repos\MyLibrary\MyLibrary\bin\Debug\netstandard2.0\MyLibrary.pdb
+C:\Users\Abraxel\source\repos\MyLibrary\MyLibrary\obj\Debug\netstandard2.0\MyLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Abraxel\source\repos\MyLibrary\MyLibrary\obj\Debug\netstandard2.0\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Abraxel\source\repos\MyLibrary\MyLibrary\obj\Debug\netstandard2.0\MyLibrary.AssemblyInfoInputs.cache
+C:\Users\Abraxel\source\repos\MyLibrary\MyLibrary\obj\Debug\netstandard2.0\MyLibrary.AssemblyInfo.cs
+C:\Users\Abraxel\source\repos\MyLibrary\MyLibrary\obj\Debug\netstandard2.0\MyLibrary.dll
+C:\Users\Abraxel\source\repos\MyLibrary\MyLibrary\obj\Debug\netstandard2.0\MyLibrary.pdb
